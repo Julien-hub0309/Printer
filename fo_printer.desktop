@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Fo Printer
+Comment=Mon application Flutter de gestion d'impression
+Exec=/home/vodahmin/Documents/Code/dev_env/Linux_app/FO_printer_linux/build/linux/x64/release/bundle/fo_printer
+Path=/home/vodahmin/Documents/Code/dev_env/Linux_app/FO_printer_linux/build/linux/x64/release/bundle/
+Icon=/home/vodahmin/Documents/Code/dev_env/Linux_app/FO_printer_linux/assets/background.png
+Terminal=false
+Categories=Utility;Application;

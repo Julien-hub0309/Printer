@@ -1,0 +1,24 @@
+name: fo_printer
+description: "FO_printer gestionnaire"
+publish_to: 'none' # Évite la publication accidentelle sur pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.1.0 # Permet d'effectuer des requêtes web si nécessaire
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0 # Recommandé pour maintenir un code Dart propre
+
+flutter:
+  uses-material-design: true
+  
+  # Configuration corrigée pour ton image de fond (extension .png)
+  assets:
+    - assets/background.png
